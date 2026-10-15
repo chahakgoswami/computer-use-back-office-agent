@@ -1,0 +1,9 @@
+MOCK CONTRACT
+
+This is a simulated contract document used as a fixture for upload testing.
+
+Party A: Test Corp
+Party B: Example Ltd
+Date: 2024-01-15
+
+Terms: This contract is for testing purposes only.
